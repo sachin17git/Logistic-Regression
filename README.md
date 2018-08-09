@@ -6,4 +6,8 @@
 
 ### Training set
 
+![lr-trainingset](https://user-images.githubusercontent.com/40026126/43917513-24e72998-9c2e-11e8-9ec4-791ccbaf3d12.PNG)
 
+
+### Testing set
+![lr-testset](https://user-images.githubusercontent.com/40026126/43917518-2a5b28de-9c2e-11e8-9282-feedc5c05794.PNG)
